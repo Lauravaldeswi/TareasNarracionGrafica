@@ -1,0 +1,11 @@
+# Ficha Técnica
+- Esta base de datos analiza los datos de embarazos no deseados durante cuatro años (2015-2019) alrededor del mundo.
+- Los estados estimados muestran la cantidad de embarazos no deseados, cada mil embarazos.
+- Esto quiere decir que por ejemplo, el primer dato de Bolivia que corresponde a 104,70 se refiere a que cada mil embarazos en Bolivia durante esa fecha, 104 son embarazos no deseados.
+- Los datos poseen un límite inferior y uno superior, esto quiere decir que existe un rango de estimación en el cual pueden variar los datos. 
+- Es decir, que si bien en Bolivia los embarazos no deseados son 104,70 los valores pueden fluctuar entre 73 y 158 embarazos no deseados cada mil embarazos.
+- Y posee un intervalo de confianza del 95%, lo que significa que los datos estadísticos no son 100% exactos, por lo mismo existen rangos, pero son 95% seguros, entonces es un intervalo de confianza muy alto y muy cercano al 100%.
+- 
+Entonces, en la tabla existen cuatro columnas: país, valor estimado, límite inferior y límite superior, de tal manera que el ejemplo de Bolivia, en la tabla se presenta como:
+
+País      : Bolivia - Valor estimado: 104, 70- Límite inferior: 73- Límite superior: 158
